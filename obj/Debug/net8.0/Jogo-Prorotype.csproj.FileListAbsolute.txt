@@ -1,0 +1,14 @@
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\bin\Debug\net8.0\Jogo-Prorotype.exe
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\bin\Debug\net8.0\Jogo-Prorotype.deps.json
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\bin\Debug\net8.0\Jogo-Prorotype.runtimeconfig.json
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\bin\Debug\net8.0\Jogo-Prorotype.dll
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\bin\Debug\net8.0\Jogo-Prorotype.pdb
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.AssemblyInfoInputs.cache
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.AssemblyInfo.cs
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.csproj.CoreCompileInputs.cache
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.dll
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\refint\Jogo-Prorotype.dll
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.pdb
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\Jogo-Prorotype.genruntimeconfig.cache
+C:\Padroes-Projetos-C#\Prototype\Exercicio-Prototype\Jogo-Prorotype\obj\Debug\net8.0\ref\Jogo-Prorotype.dll
